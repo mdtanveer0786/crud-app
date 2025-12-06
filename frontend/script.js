@@ -1,4 +1,4 @@
-const API_URL = "https://crud-app-rnp2.onrender.com/api/students";
+const API_URL = "https://crud-app-ne5m.onrender.com/api/students";
 
 async function addStudent() {
   const name = document.getElementById("name").value;

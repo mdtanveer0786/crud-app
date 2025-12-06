@@ -7,7 +7,7 @@ const app = express();
 
 // === ADD YOUR VERCEL URL HERE ===
 const allowedOrigins = [
-  "https://your-frontend.vercel.app", // <-- yahan apna real Vercel URL daalo
+  "https://crud-app-3haw.vercel.app", // <-- yahan apna real Vercel URL daalo
   "http://localhost:5500",            // local testing
   "http://localhost:3000"
 ];
